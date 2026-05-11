@@ -4,7 +4,7 @@ layout: default
 
 ![Robust AE](assets/logo.png)
 
-Robust AE Ltd is an electrical engineering and embedded systems consultancy based in South Croydon. The work spans embedded firmware, FPGA logic, industrial control programming, and the electrical infrastructure those systems run in. The company is run by George Haworth, MIET.
+<span class="fuchsia">**Robust AE Ltd**</span> is an electrical engineering and embedded systems consultancy based in South Croydon. The work spans embedded firmware, FPGA logic, industrial control programming, and the electrical infrastructure those systems run in. The company is run by George Haworth, <span class="purple">MIET</span>.
 
 - **Embedded systems.** Firmware on microcontrollers, primarily Rust on Cortex-M.
 - **FPGA development.** Verilog RTL targeting Xilinx Artix-7, using the openXC7 open-source toolchain.

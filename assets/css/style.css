@@ -44,3 +44,29 @@ hr {
   border-top: 1px dashed var(--c-grey);
   margin: 2.5rem 0;
 }
+
+/* Extended palette */
+body {
+  --c-purple:  #b462ff;
+  --c-fuchsia: #ff45b4;
+  --c-blue:    #18b6ff;
+  --c-orange:  #ff9528;
+  --c-yellow:  #dddd25;
+}
+
+/* Bullet labels, one colour each */
+ul li:nth-child(1) strong { color: var(--c-blue); }
+ul li:nth-child(2) strong { color: var(--c-fuchsia); }
+ul li:nth-child(3) strong { color: var(--c-orange); }
+ul li:nth-child(4) strong { color: var(--c-yellow); }
+
+/* Footer legal line in grey */
+hr + p {
+  color: var(--c-grey);
+  font-size: 0.9em;
+}
+
+/* Utility colour spans for inline use */
+.purple  { color: var(--c-purple); }
+.fuchsia { color: var(--c-fuchsia); }
+.grey    { color: var(--c-grey); }
