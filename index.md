@@ -11,7 +11,11 @@ layout: default
 - **IEC 61131-3 programming.** Industrial control logic in Siemens TIA Portal (SCL) and CODESYS.
 - **Electrical engineering.** Control panel design and build to BS EN 61439, installation work to BS 7671.
 
-Email enquiries to [info@robust-ae.com](mailto:info@robust-ae.com) with a specific technical question. The working portfolio at [github.com/ghaworth](https://github.com/ghaworth) is worth a look first.
+Email enquiries to [info@robust-ae.com](mailto:info@robust-ae.com) with a specific technical question. 
+
+[What I'm working on now](/now/)
+
+My GitHub [github.com/ghaworth](https://github.com/ghaworth) is also worth a look.
 
 ---
 
