@@ -78,4 +78,7 @@ em {
 /* Utility colour spans for inline use */
 .purple  { color: var(--c-purple); }
 .fuchsia { color: var(--c-fuchsia); }
+.blue    { color: var(--c-blue); }
+.orange  { color: var(--c-orange); }
+.yellow  { color: var(--c-yellow); }
 .grey    { color: var(--c-grey); }
