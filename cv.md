@@ -10,6 +10,7 @@ Electrical engineer and embedded systems developer.
 [LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-SLUG]) · [github.com/ghaworth](https://github.com/ghaworth)
 
 ---
+
 As an electrical and embedded systems engineer I operate at the intersection of disciplines that are often siloed. I am equally comfortable writing low-level firmware for MCUs as I am designing and building BS EN 61439 compliant control panels, or designing safety circuits. This positions me to take the lead on projects spanning multiple engineering disciplines, and to draw lines of connection not necessarily visible to those working within their respective silos.  
 
 I approach my work by seeking first to understand deeply the underlying mechanisms and principles involved, rather than relying on received practice. I treat the quiet, understated discipline of actually figuring things out for myself, rather than reaching for a packaged solution, as a capability worth defending. Tolerating the discomfort of being stuck or wrong is the prerequisite for actual personal and professional growth. 
